@@ -21,7 +21,7 @@
                                                
                                                ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <p>Gmail: sarika.ks.official@gmail.com</p>
+├─◈ Gmail: sarika.ks.official@gmail.com
 ├─◈ <a href="https://www.youtube.com/@pickupwhereyouleft7647">YouTube</a>
 ├─◈ <a href="https://medium.com/@sarika.ks.official">Medium</a>
 ├─◈ <a href="https://www.linkedin.com/in/sarika-k-s-b094b61ba/">LinkedIn</a>
