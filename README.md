@@ -26,13 +26,6 @@
 ├─◈ <a href="https://medium.com/@sarika.ks.official">Medium</a>
 ├─◈ <a href="https://www.linkedin.com/in/sarika-k-s-b094b61ba/">LinkedIn</a>
 │
-└───────────────────────────────▰▰▰
-                                                                                
-                                                                                
-▓▓  ▓▓▓▓▓ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ▓▓▓▓▓▓▓▓▓▓▓ ▓▓ ▓ ▓▓▓▓▓ ▓ ▓ ▓ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-                                                                                
-                                                                                
-                                                                                
-                                                                                
+└───────────────────────────────▰▰▰                                                                           
 </pre>
 ![](./github-header-image.png)
