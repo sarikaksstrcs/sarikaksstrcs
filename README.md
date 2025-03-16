@@ -21,8 +21,8 @@
                                                
                                                ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/Rijfas1">Twitter</a>
-├─◈ <a href="https://www.youtube.com/@rijfas2623">YouTube</a>
+├─◈ <p>Gmail: sarika.ks.official@gmail.com</p>
+├─◈ <a href="https://www.youtube.com/@pickupwhereyouleft7647">YouTube</a>
 ├─◈ <a href="https://medium.com/@sarika.ks.official">Medium</a>
 ├─◈ <a href="https://www.linkedin.com/in/sarika-k-s-b094b61ba/">LinkedIn</a>
 │
