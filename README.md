@@ -35,7 +35,4 @@
                                                                                 
                                                                                 
 </pre>
-<pre>
-
-</pre>
-![](https://github.com/rijfas/rijfas/blob/main/header.png)
+![](./github-header-image.png)
