@@ -4,12 +4,6 @@
 
 I'm a passionate software engineer with expertise in building scalable mobile and web applications, AI-powered solutions, and cloud-native systems. Currently working at ARMADA on cross-platform applications managing thousands of Starlink terminals.
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarika-k-s-b094b61ba) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sarika-portfolio-kjwx.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarika.ks.official@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pickupwhereyouleft7647)
-
 
 ## 🚀 About Me
 
@@ -19,6 +13,12 @@ I'm a passionate software engineer with expertise in building scalable mobile an
 - 🎓 Master's in Computer Applications from **College of Engineering Trivandrum** (CGPA: 9.19/10)
 - 🏆 **University First Rank** in BSc Computer Science (92.02%)
 - 📫 Reach me at: **sarika.ks.official@gmail.com**
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarika-k-s-b094b61ba) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sarika-portfolio-kjwx.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarika.ks.official@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pickupwhereyouleft7647)
 
 ## 💼 Professional Experience
 
@@ -102,14 +102,3 @@ I'm a passionate software engineer with expertise in building scalable mobile an
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarika-k-s-b094b61ba)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarikaksstrcs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarika.ks.official@gmail.com)
-
----
-
-⭐️ From [sarikaksstrcs](https://github.com/sarikaksstrcs)
