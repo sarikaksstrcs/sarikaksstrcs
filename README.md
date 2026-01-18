@@ -31,14 +31,11 @@ I'm a passionate software engineer with expertise in building scalable mobile an
 
 ## 🏆 Certifications & Achievements
 
-- ☁️ **Microsoft Azure Fundamentals (Az-900)** - 2026
+- ☁️ **Microsoft Azure Developer Fundamentals (Az-900)** - 2026
 - 🥇 **UGC-NET Qualified** (Computer Science) - 2024
 - 🥇 **GATE Qualified** (CS/DS) - 2024
-- ☁️ **Microsoft Azure AI Fundamentals** - 2024
+- ☁️ **Microsoft Azure AI Fundamentals(AI-900)** - 2024
 - 🤖 **AWS Certified AI Practitioner** - 2024
-- 🔒 **IBM Cybersecurity Analyst** - 2023
-- 🧠 **Deep Learning Specialization** - 2022
-- 📊 **Google Data Analytics Certificate** - 2021
 - 🏅 **Extra Mile Award** - TATA ELXSI (2024)
 
 ## 📊 GitHub Stats
