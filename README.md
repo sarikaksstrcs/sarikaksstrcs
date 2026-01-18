@@ -31,6 +31,7 @@ I'm a passionate software engineer with expertise in building scalable mobile an
 
 ## 🏆 Certifications & Achievements
 
+- ☁️ **Microsoft Azure Fundamentals (Az-900)** - 2026
 - 🥇 **UGC-NET Qualified** (Computer Science) - 2024
 - 🥇 **GATE Qualified** (CS/DS) - 2024
 - ☁️ **Microsoft Azure AI Fundamentals** - 2024
